@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.brustl.com/</loc>
+    <loc>https://www.brustl.org/</loc>
     <lastmod>2021-10-28T12:33:14-05:00</lastmod>
   </url><url>
-    <loc>http://www.brustl.com/posts/</loc>
+    <loc>https://www.brustl.org/posts/</loc>
     <lastmod>2021-10-28T12:33:14-05:00</lastmod>
   </url><url>
-    <loc>http://www.brustl.com/posts/test-post/</loc>
+    <loc>https://www.brustl.org/posts/test-post/</loc>
     <lastmod>2021-10-28T12:33:14-05:00</lastmod>
   </url><url>
-    <loc>http://www.brustl.com/categories/</loc>
+    <loc>https://www.brustl.org/categories/</loc>
   </url><url>
-    <loc>http://www.brustl.com/tags/</loc>
+    <loc>https://www.brustl.org/tags/</loc>
   </url>
 </urlset>

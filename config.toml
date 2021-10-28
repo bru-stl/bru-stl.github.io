@@ -1,0 +1,7 @@
+baseURL = 'http://www.brustl.com/'
+languageCode = 'en-us'
+title = 'Bus Riders United STL'
+theme = 'ananke'
+
+[params]
+	background_color_class = "bg-green"

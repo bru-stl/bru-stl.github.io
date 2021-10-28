@@ -1,4 +1,4 @@
-baseURL = 'http://www.brustl.com/'
+baseURL = 'http://www.brustl.org/'
 languageCode = 'en-us'
 title = 'Bus Riders United STL'
 theme = 'ananke'

@@ -5,16 +5,6 @@
     <link>https://www.brustl.org/</link>
     <description>Recent content on Bus Riders United STL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 28 Oct 2021 12:33:14 -0500</lastBuildDate><atom:link href="https://www.brustl.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test Post</title>
-      <link>https://www.brustl.org/posts/test-post/</link>
-      <pubDate>Thu, 28 Oct 2021 12:33:14 -0500</pubDate>
-      
-      <guid>https://www.brustl.org/posts/test-post/</guid>
-      <description>Test post, please ignore!</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://www.brustl.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,9 +1,6 @@
 ---
-title: "Join BRU!"
-date: 2021-11-01T12:00:00
-draft: false
+title: "Join Bus Riders United!"
 ---
-## Join Bus Riders United
 
 Transit rider unions are growing across the United States, as people who rely on transit every day get tired of watching their transportation get worse. Meanwhile, billions are poured into highways and cars.
 

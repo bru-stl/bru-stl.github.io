@@ -1,8 +1,22 @@
 baseURL = 'https://www.brustl.org/'
 languageCode = 'en-us'
 title = 'Bus Riders United STL'
-theme = 'ananke'
 publishDir = 'docs'
+sectionPagesMenu = "main"
 
 [params]
-	background_color_class = "bg-green"
+	text_color_class = "bg-white"
+	background_color_class = "--bs-orange"
+	body_classes = "avenir bg-near-white"
+
+[menu]
+	[[menu.main]]
+		name = "Rider info"
+		pre = "rider-info"
+		url = "/rider-info"
+		weight = 2
+	[[menu.main]]
+		name = "Join"
+		pre = "join"
+		url = "/join"
+		weight = 3

@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div id="home-jumbotron" class="default-bg-color jumbotron text-center">
+  <h1 class="title">{{ .Params.title }}</h1>
+  <h2>{{ .Params.description }}</h2>
+  <br/>
+</div>
+<div class='container py-3'>
+  {{ .Content }}
+</div>
+{{ end }}

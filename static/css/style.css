@@ -1,0 +1,17 @@
+.default-bg-color {
+    background-color: #f79626;
+    color: white;
+}
+
+a.nav-link {
+    background-color: black;
+    color: white;
+    margin: 4px;
+}
+
+.bottom-footer {
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    padding: 10px 0;
+}

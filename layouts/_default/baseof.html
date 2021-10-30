@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body class='vh-100'>
+        {{- partial "header.html" . -}}
+        <div class='d-flex flex-column justify-content-between'>
+            <main>
+                <div id="content">
+                    {{- block "main" . }}{{- end }}
+                </div>
+            </main>
+            {{ block "footer" .}}
+            {{- partial "footer.html" . -}}
+            {{- partial "script.html" . -}}
+            {{ end }}
+        </div>
+    </body>
+</html>

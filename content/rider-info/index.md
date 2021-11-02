@@ -1,5 +1,6 @@
 ---
 title: Rider info
+page_header_image: "images/bus-half-cropped.jpg"
 ---
 
 ## Helpful info for bus riders

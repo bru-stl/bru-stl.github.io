@@ -1,11 +1,16 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
     {{- partial "head.html" . -}}
     <body class='vh-100'>
         {{- partial "header.html" . -}}
         <div class='d-flex flex-column justify-content-between'>
+            {{ $page_header_image := .Params.page_header_image }}
+            {{ if $page_header_image }}
+                {{ $page_header_image :=  (trim $page_header_image "/") | absURL }}
+                <div class="w-100" style="height: 200px; background-image: url('{{$page_header_image}}');"></div>
+            {{ end }}
             <main>
-                <div id="content">
+                <div id="content" class="container scroll-content">
                     {{- block "main" . }}{{- end }}
                 </div>
             </main>
@@ -15,4 +20,4 @@
             {{ end }}
         </div>
     </body>
-</html>
+</html> -->

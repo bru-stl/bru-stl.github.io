@@ -1,0 +1,13 @@
+<div id='home-content'>
+    {{ $home_content_image := .Param "home_content_image"}}
+    {{ $home_content_image := (trim $home_content_image "/") | absURL }}
+    <div id='home-image-box' style="background-image: url('{{ $home_content_image }}');">
+        <div>
+            <h1>Tired of waiting? So are we.</h1>
+            <p>
+                We're Bus Riders United, and we want a better bus system.
+            </p>
+        </div>
+    </div>
+    {{ .Content}}
+</div>

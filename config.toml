@@ -1,22 +1,33 @@
 baseURL = 'https://www.brustl.org/'
-languageCode = 'en-us'
-title = 'Bus Riders United STL'
+title = 'Bus Riders United'
+theme = 'hugo-flex'
+languageCode = 'en-US'
+enableInlineShortcodes = true
 publishDir = 'docs'
 sectionPagesMenu = "main"
 
 [params]
-	text_color_class = "bg-white"
-	background_color_class = "--bs-orange"
-	body_classes = "avenir bg-near-white"
+	description = "Bus riders fighting together for a better St Louis"
+	color = "#f79626"
+	footer = "🚌 <em>The bus can better when we ride together!</em> ✊ &copy; 2021 Bus Riders United STL"
+    home_content_image = "/images/civic-center.jpg"
+	css = [ "css/custom.css" ]
+	summaries = true
+
+	[params.netlify]
+		recaptcha = true
+
+	
 
 [menu]
-	[[menu.main]]
+	[[menu.nav]]
 		name = "Rider info"
-		pre = "rider-info"
 		url = "/rider-info"
 		weight = 2
-	[[menu.main]]
-		name = "Join"
-		pre = "join"
+	[[menu.nav]]
+		name = "Join us!"
 		url = "/join"
 		weight = 3
+
+[permalink]
+	posts = "/:title/"

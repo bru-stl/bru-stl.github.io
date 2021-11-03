@@ -10,4 +10,5 @@ By working together as bus riders, we can demand that our bus system is the one 
 
 Join us today, or contribute by donating to our organization:
 
+{{< contact >}}
 TODO: join/donate form

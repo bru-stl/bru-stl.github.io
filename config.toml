@@ -1,5 +1,5 @@
 baseURL = 'https://www.brustl.org/'
-title = 'Bus Riders United'
+title = 'Bus Riders United STL'
 theme = 'hugo-flex'
 languageCode = 'en-US'
 enableInlineShortcodes = true

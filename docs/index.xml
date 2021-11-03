@@ -1,30 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://www.brustl.org/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bus Riders United on BRU STL</title>
+    <title>Home on Bus Riders United</title>
     <link>https://www.brustl.org/</link>
-    <description>Recent content in Bus Riders United on BRU STL</description>
+    <description>Recent content in Home on Bus Riders United</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.brustl.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Nov 2021 12:33:14 -0500</lastBuildDate>
+    <atom:link href="https://www.brustl.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>complaints</title>
-      <link>https://www.brustl.org/complaints/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.brustl.org/complaints/</guid>
-      <description>Bi-State Development, Metro, and St Louis government continue to ignore struggling bus riders during this pandemic. But together, we can demand they listen to us. By building a bus riders union we can build power to ensure real issues are solved:
- Further 10% service cut coming November 2021 Not enough good bus stops Not enough bus drivers Buses not showing up Indoor waiting and warming areas closed Bus stops removed without nobtice Metrolink being prioritized over buses Transit info only available 7am-6pm M-F  </description>
+      <title>10% service cuts coming this November</title>
+      <link>https://www.brustl.org/rider-info/november-2021-service-cuts/</link>
+      <pubDate>Tue, 02 Nov 2021 12:33:14 -0500</pubDate>
+      <guid>https://www.brustl.org/rider-info/november-2021-service-cuts/</guid>
+      <description>&lt;p&gt;Starting this month Bi-State will be implementing a &lt;a href=&#34;https://cmt-stl.org/metro-transit-to-reduce-service-hours-due-to-workforce-shortage-expanding-via-pilot-to-fill-in-gaps/&#34;&gt;number of service cuts&lt;/a&gt; on 27 routes. These changes include:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;14 Local routes will adjust weekday daytime service from 30-minute to either&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;40- or 60-minute frequency&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;4 Frequent routes will adjust weekday daytime service (3 routes moving from 15-minute to 20- minute frequency, and one route moving from 20- to 30-minute frequency)&lt;/li&gt;
+&lt;li&gt;2 routes will have evening service reduced from 30- to 60-minutes&lt;/li&gt;
+&lt;li&gt;4 routes will shorten the evening span of service due to low nighttime demand; 3 of those routes, located in North County, have a replacement microtransit service after 8PM&lt;/li&gt;
+&lt;li&gt;6 routes temporarily suspended
+&lt;ul&gt;
+&lt;li&gt;Includes all 4 Express routes&lt;/li&gt;
+&lt;li&gt;Includes 2 local routes in South and West County — #46-Tesson Ferry and #65-Outer Forties – which will be fully covered by microtransit service&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The changes have not yet been officially announced, but should appear on &lt;a href=&#34;https://www.metrostlouis.org/nextstop/&#34;&gt;Metro&amp;rsquo;s blog&lt;/a&gt; when they are.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Rider info</title>
-      <link>https://www.brustl.org/rider-info/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.brustl.org/rider-info/</guid>
-      <description>Helpful info for bus riders Get a free Lyft if you miss your bus If you have a wait of 30 minutes or more due to your bus not showing up for its scheduled trip, Metro will set up a ride on Lyft for you to get you to your destination.
-Give Transit Information team a call if your bus does not arrive at 314.231.2345, although their hours are only 7am - 6pm Monday thru Friday.</description>
+      <title>Bus didn&#39;t show? Metro will order you a Lyft</title>
+      <link>https://www.brustl.org/rider-info/metro-free-lyft-ride/</link>
+      <pubDate>Fri, 22 Oct 2021 12:00:00 -0500</pubDate>
+      <guid>https://www.brustl.org/rider-info/metro-free-lyft-ride/</guid>
+      <description>&lt;p&gt;If you have a wait of 30 minutes or more due to your bus not showing up for its scheduled trip, &lt;a href=&#34;https://www.metrostlouis.org/nextstop/checking-the-status-of-your-metrobus-in-transit/&#34;&gt;Metro will set up a ride on Lyft for you to get you to your destination&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Give Transit Information team a call if your bus does not arrive at &lt;a href=&#34;tel:3142312345&#34;&gt;314.231.2345&lt;/a&gt;, although their hours are only 7am - 6pm Monday thru Friday.&lt;/p&gt;
+&lt;p&gt;Outside of those hours, Transit Service Managers and Public Safety team are able to assist: contact Public Safety 24/7 by calling &lt;a href=&#34;tel:3142896873&#34;&gt;314.289.6873&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

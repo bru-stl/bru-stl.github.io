@@ -13,6 +13,8 @@ sectionPagesMenu = "main"
     home_content_image = "/images/civic-center.jpg"
 	css = [ "css/custom.css" ]
 	summaries = true
+	images = [ "images/civic-center.jpg" ]
+	twittercards = true
 	
 
 [menu]

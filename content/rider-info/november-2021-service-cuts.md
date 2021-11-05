@@ -15,3 +15,5 @@ Starting this month Bi-State will be implementing a [number of service cuts](htt
 >   - Includes 2 local routes in South and West County — #46-Tesson Ferry and #65-Outer Forties – which will be fully covered by microtransit service
 
 The changes have not yet been officially announced, but should appear on [Metro's blog](https://www.metrostlouis.org/nextstop/) when they are.
+
+**If these cuts will impact you,** please [submit comment to Bi-State](https://www.bistatedev.org/public-meetings/public-comment-form/) before their next meeting on November 19, and encourage them to hire more bus operators and fill the staffing shortage so that riders aren't left waiting.

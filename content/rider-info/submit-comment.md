@@ -1,10 +1,12 @@
 ---
-title: "Submit Comment for BSD's November meeting"
-date: 2021-11-07T19:24:31-05:00
+title: "Submit Comment for BSD's next meeting"
+date: 2021-11-05T19:24:31-05:00
 draft: false
 ---
 
-The next Bi-State Board of Commissioners meeting is **Friday, November 19 @ 8:30am**. We strongly encourage you to ask Bi-State to improve starting pay and benefits for bus drivers, so that we can fill our steep operator shortage and reduce the amount of time riders will spend freezing, waiting at bus stops this winter. Your comments will be read to the board during their meeting. <!--more--> 
+The next Bi-State Board of Commissioners meeting is **Friday, November 19 @ 8:30am**. We strongly encourage you to ask Bi-State to improve starting pay and benefits for bus drivers, so that we can fill our steep operator shortage and reduce the amount of time riders will spend waiting at bus stops this winter. Your comments will be read to the board during their meeting. <!--more--> 
+
+For context: starting pay at Metro is **$15.88/hr**, while starting pay across the state in Kansas City is **17.88/hr**.
 
 You can fill out [this form](https://www.bistatedev.org/public-meetings/public-comment-form/) to send Bi-State your comments.
 

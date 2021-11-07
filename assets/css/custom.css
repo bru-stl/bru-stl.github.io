@@ -6,6 +6,11 @@ blockquote {
     border-left: 2px solid #f79626;
 }
 
+blockquote > p {
+    padding-left: 10px;
+    line-height: 1.3em;
+}
+
 #home-content {
 
 }
@@ -62,5 +67,10 @@ blockquote {
 }
 .Contact-button {
     margin-left:auto
+}
+
+.Heading-link {
+    color: #f79626;
+    text-decoration: underline;
 }
    

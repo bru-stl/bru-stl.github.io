@@ -16,4 +16,41 @@ Starting this month Bi-State will be implementing a [number of service cuts](htt
 
 The changes have not yet been officially announced, but should appear on [Metro's blog](https://www.metrostlouis.org/nextstop/) when they are.
 
+UPDATE: The cuts have now been announced and you can [read on the details here](https://www.metrostlouis.org/nextstop/metro-transit-service-change-scheduled-for-november-29/). The following lines are impacted:
+
+> **Line suspended**
+> - #46 Tesson Ferry
+> - #65 Outer Forty
+> - #57X Clayton Road
+> - #58X Twin Oaks Express
+> - #73X I-55 Express
+> - #410X Eureka Express
+> 
+> **Bus service ending at 8 PM**
+> - #60 Shepley-Lilac
+> - #78 Bellefontaine
+> - #79 Ferguson
+> 
+> **Frequency reduction**
+> - #4 Natural Bridge
+> - #10 Gravois-Lindell
+> - #32 Dr. ML King
+> - #35 Rock Road
+> - #40 N. Broadway
+> - #41 Lee
+> - #49 Lindbergh
+> - #57 Manchester
+> - #60 Shepley-Lilac
+> - #61 Chambers Rd.
+> - #64 Lucas-Hunt
+> - #73 Carondelet
+> - #76 McDonnell-Waterford
+> - #77 Village Square
+> - #78 Bellefontaine
+> - #91 Olive
+> - #94 Page
+> - #97 Delmar
+> - #98 Ballas-North Hanley
+> - #174X Halls Ferry Express
+
 **If these cuts will impact you,** please [submit comment to Bi-State](https://www.bistatedev.org/public-meetings/public-comment-form/) before their next meeting on November 19, and encourage them to hire more bus operators and fill the staffing shortage so that riders aren't left waiting.

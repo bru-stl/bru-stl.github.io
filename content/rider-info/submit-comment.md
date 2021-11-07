@@ -1,5 +1,7 @@
 ---
 title: "Submit Comment for BSD's next meeting"
+aliases:
+ - /public-comment
 date: 2021-11-05T19:24:31-05:00
 draft: false
 ---

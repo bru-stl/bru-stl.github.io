@@ -1,9 +1,0 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = git@github.com:theNewDynamic/gohugo-theme-ananke.git
-[submodule "themes/etch"]
-	path = themes/etch
-	url = https://github.com/LukasJoswiak/etch
-[submodule "themes/hugo-flex"]
-	path = themes/hugo-flex
-	url = https://github.com/de-souza/hugo-flex.git

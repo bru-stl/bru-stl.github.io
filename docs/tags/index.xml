@@ -1,10 +1,121 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://www.brustl.org/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bus Riders United STL</title>
     <link>https://www.brustl.org/tags/</link>
     <description>Recent content in Tags on Bus Riders United STL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.brustl.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <atom:link href="https://www.brustl.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Submit Comment for BSD&#39;s next meeting</title>
+      <link>https://www.brustl.org/rider-info/submit-comment/</link>
+      <pubDate>Fri, 05 Nov 2021 19:24:31 -0500</pubDate>
+      <guid>https://www.brustl.org/rider-info/submit-comment/</guid>
+      <description>&lt;p&gt;The next Bi-State Board of Commissioners meeting is &lt;strong&gt;Friday, November 19 @ 8:30am&lt;/strong&gt;. We strongly encourage you to ask Bi-State to improve starting pay and benefits for bus drivers, so that we can fill our steep operator shortage and reduce the amount of time riders will spend waiting at bus stops this winter. Your comments will be read to the board during their meeting.&lt;/p&gt;
+&lt;p&gt;For context: starting pay at Metro is &lt;strong&gt;$15.88/hr&lt;/strong&gt;, while starting pay across the state in Kansas City is &lt;strong&gt;17.88/hr&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;You can fill out &lt;a href=&#34;https://www.bistatedev.org/public-meetings/public-comment-form/&#34;&gt;this form&lt;/a&gt; to send Bi-State your comments.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-bi-state-development&#34;&gt;What is Bi-State Development?&lt;/h3&gt;
+&lt;p&gt;Bi-State Development (BSD) is the organization that runs Metro. They are overseen by an appointed Board of Commissioners, who meet regularly to oversee the organization. Due to the pandemic, their meetings have been moved to being run virtually. You can find videos of &lt;a href=&#34;https://www.youtube.com/user/MetroStLouisTransit&#34;&gt;recent meetings here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COVID fares are unfair</title>
+      <link>https://www.brustl.org/rider-info/covid-fares-unfair/</link>
+      <pubDate>Thu, 04 Nov 2021 19:24:31 -0500</pubDate>
+      <guid>https://www.brustl.org/rider-info/covid-fares-unfair/</guid>
+      <description>&lt;h3 id=&#34;why-is-the-bus-more-expensive-than-before-the-pandemic&#34;&gt;Why is the bus more expensive than before the pandemic?&lt;/h3&gt;
+&lt;p&gt;As a safety measure near the beginning of the pandemic, the use of physical transfer slips was suspended. As a trade-off, Metro cut the price of a single bus ride in half to $1.&lt;/p&gt;
+&lt;p&gt;Transit users who start their trip at a bus (a vast majority of them) and who need to transfer to reach their destination (another vast majority), the trip is more costly than before:&lt;/p&gt;
+&lt;h3 id=&#34;bus-100--train-250--two-hour-pass-300&#34;&gt;Bus ($1.00) + Train ($2.50) &amp;gt; Two-hour pass ($3.00)&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Many start by boarding a bus, transfer to the Metrolink, and very likely have another final bus leg at the end of the trip. Since there&amp;rsquo;s no way to buy two-hours of transit on the bus at the start of your trip, you buy full train fare ($2.50) separately at the Metrolink station - not only slowing down the trip - but making it more expensive than the initial two-hour pass would have cost.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;-bus-100--bus-100--x-2--two-hour-pass-300&#34;&gt;( Bus ($1.00) + Bus ($1.00) ) x 2 &amp;gt; Two-hour pass ($3.00)&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Trips which don&amp;rsquo;t require a transfer to Metrolink likely require a transfer between buses. When a return trip is taken into account, a bus rider is paying $1.00 four separate times for a trip that would have, before the pandemic, only cost $3.00.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;not-every-trip-but-enough-to-be-concerned&#34;&gt;Not every trip, but enough to be concerned&lt;/h2&gt;
+&lt;p&gt;Many trips are cheaper than before the pandemic, but for those who rely on the bus every day, the trend is concerning. We are still in an economic crisis, on top of a public health one, and people using transit are far more likely to lack any alternative to using the bus. Requiring them to pay more, while also vastly cutting back service is cruel and unfair.&lt;/p&gt;
+&lt;p&gt;One alternative as the pandemic remains present would be to return to the rear-door boarding on buses which Metro used March 21 - June 1, 2020. This would be a win, not just in improving fare equity, but in &lt;strong&gt;better protecting bus drivers and riders&lt;/strong&gt;. Front-door boarding requires every person boarding a bus face the driver as they pay fare, exponentially increasing the risk of COVID transmission. We strongly believe this safety measure would help in incentivizing new hiring (and help to protect our existing operators!)&lt;/p&gt;
+&lt;p&gt;Rear-door boarding does come at the cost of some fares, but Bi-State development recieved $142.4 million in CARES funding for safe operation. In comparison, the entirety expected from fares in the 2021 budget is $23 million. &lt;strong&gt;We could easily afford safer, free bus service. Instead we&amp;rsquo;re left with service that is less safe and more expensive than before the pandemic.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;other-fare-options&#34;&gt;Other fare options&lt;/h3&gt;
+&lt;p&gt;Another option to improve fare equity is to implement &lt;a href=&#34;https://transitcenter.org/fare-capping-formula-fairer-fares/&#34;&gt;fare-capping&lt;/a&gt;, a system by which those who buy their fare individually through the month or week don&amp;rsquo;t end up paying more than they would have if they had bought a weekly or monthly pass upfront. Once a rider has payed the same amount as a monthly pass, the rest of their rides that month are free. This solution isn&amp;rsquo;t all-encompassing, as it wouldn&amp;rsquo;t benefit those who lack a Gateway Card or a smart phone, but it would go a long way towards improving the experience for many riders.&lt;/p&gt;
+&lt;p&gt;Regardless, it&amp;rsquo;s clear in may ways that decisionmakers at Bi-State and Metro don&amp;rsquo;t seem to actually use our bus system, and their choices make abundantly clear that they don&amp;rsquo;t care. If our vision of a better bus system resonates with you, &lt;a href=&#34;https://www.brustl.org/join&#34;&gt;join Bus Riders United STL today&lt;/a&gt;. We also urge you to &lt;a href=&#34;https://www.brustl.org/rider-info/submit-comment&#34;&gt;send Bi-State a public comment&lt;/a&gt;, which will be read aloud to them in their next public meeting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10% service cuts coming this November</title>
+      <link>https://www.brustl.org/rider-info/november-2021-service-cuts/</link>
+      <pubDate>Tue, 02 Nov 2021 12:33:14 -0500</pubDate>
+      <guid>https://www.brustl.org/rider-info/november-2021-service-cuts/</guid>
+      <description>&lt;p&gt;Starting this month Bi-State will be implementing a &lt;a href=&#34;https://cmt-stl.org/metro-transit-to-reduce-service-hours-due-to-workforce-shortage-expanding-via-pilot-to-fill-in-gaps/&#34;&gt;number of service cuts&lt;/a&gt; on 27 routes. These changes include:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;14 Local routes will adjust weekday daytime service from 30-minute to either 40- or 60-minute frequency&lt;/li&gt;
+&lt;li&gt;4 Frequent routes will adjust weekday daytime service (3 routes moving from 15-minute to 20- minute frequency, and one route moving from 20- to 30-minute frequency)&lt;/li&gt;
+&lt;li&gt;2 routes will have evening service reduced from 30- to 60-minutes&lt;/li&gt;
+&lt;li&gt;4 routes will shorten the evening span of service due to low nighttime demand; 3 of those routes, located in North County, have a replacement microtransit service after 8PM&lt;/li&gt;
+&lt;li&gt;6 routes temporarily suspended
+&lt;ul&gt;
+&lt;li&gt;Includes all 4 Express routes&lt;/li&gt;
+&lt;li&gt;Includes 2 local routes in South and West County — #46-Tesson Ferry and #65-Outer Forties – which will be fully covered by microtransit service&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The changes have not yet been officially announced, but should appear on &lt;a href=&#34;https://www.metrostlouis.org/nextstop/&#34;&gt;Metro&amp;rsquo;s blog&lt;/a&gt; when they are.&lt;/p&gt;
+&lt;p&gt;UPDATE: The cuts have now been announced and you can &lt;a href=&#34;https://www.metrostlouis.org/nextstop/metro-transit-service-change-scheduled-for-november-29/&#34;&gt;read on the details here&lt;/a&gt;. The following lines are impacted:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Line suspended&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#46 Tesson Ferry&lt;/li&gt;
+&lt;li&gt;#65 Outer Forty&lt;/li&gt;
+&lt;li&gt;#57X Clayton Road&lt;/li&gt;
+&lt;li&gt;#58X Twin Oaks Express&lt;/li&gt;
+&lt;li&gt;#73X I-55 Express&lt;/li&gt;
+&lt;li&gt;#410X Eureka Express&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Bus service ending at 8 PM&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#60 Shepley-Lilac&lt;/li&gt;
+&lt;li&gt;#78 Bellefontaine&lt;/li&gt;
+&lt;li&gt;#79 Ferguson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Frequency reduction&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#4 Natural Bridge&lt;/li&gt;
+&lt;li&gt;#10 Gravois-Lindell&lt;/li&gt;
+&lt;li&gt;#32 Dr. ML King&lt;/li&gt;
+&lt;li&gt;#35 Rock Road&lt;/li&gt;
+&lt;li&gt;#40 N. Broadway&lt;/li&gt;
+&lt;li&gt;#41 Lee&lt;/li&gt;
+&lt;li&gt;#49 Lindbergh&lt;/li&gt;
+&lt;li&gt;#57 Manchester&lt;/li&gt;
+&lt;li&gt;#60 Shepley-Lilac&lt;/li&gt;
+&lt;li&gt;#61 Chambers Rd.&lt;/li&gt;
+&lt;li&gt;#64 Lucas-Hunt&lt;/li&gt;
+&lt;li&gt;#73 Carondelet&lt;/li&gt;
+&lt;li&gt;#76 McDonnell-Waterford&lt;/li&gt;
+&lt;li&gt;#77 Village Square&lt;/li&gt;
+&lt;li&gt;#78 Bellefontaine&lt;/li&gt;
+&lt;li&gt;#91 Olive&lt;/li&gt;
+&lt;li&gt;#94 Page&lt;/li&gt;
+&lt;li&gt;#97 Delmar&lt;/li&gt;
+&lt;li&gt;#98 Ballas-North Hanley&lt;/li&gt;
+&lt;li&gt;#174X Halls Ferry Express&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;If these cuts will impact you,&lt;/strong&gt; please &lt;a href=&#34;https://www.bistatedev.org/public-meetings/public-comment-form/&#34;&gt;submit comment to Bi-State&lt;/a&gt; before their next meeting on November 19, and encourage them to hire more bus operators and fill the staffing shortage so that riders aren&amp;rsquo;t left waiting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bus didn&#39;t show? Metro will order you a Lyft</title>
+      <link>https://www.brustl.org/rider-info/metro-free-lyft-ride/</link>
+      <pubDate>Fri, 22 Oct 2021 12:00:00 -0500</pubDate>
+      <guid>https://www.brustl.org/rider-info/metro-free-lyft-ride/</guid>
+      <description>&lt;p&gt;If you have a wait of 30 minutes or more due to your bus not showing up for its scheduled trip, &lt;a href=&#34;https://www.metrostlouis.org/nextstop/checking-the-status-of-your-metrobus-in-transit/&#34;&gt;Metro will set up a ride on Lyft for you to get you to your destination&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Give Transit Information team a call if your bus does not arrive at &lt;a href=&#34;tel:3142312345&#34;&gt;314.231.2345&lt;/a&gt;, although their hours are only 7am - 6pm Monday thru Friday.&lt;/p&gt;
+&lt;p&gt;Outside of those hours, Transit Service Managers and Public Safety team are able to assist: contact Public Safety 24/7 by calling &lt;a href=&#34;tel:3142896873&#34;&gt;314.289.6873&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A more effective and reliable use of resources might be to pay for more bus drivers, rather than some undetermined number of Lyft rides, but we still think it&amp;rsquo;s important to share this information with fellow riders so they are aware of their options and aren&amp;rsquo;t left standing in the cold from a bus that never showed up.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

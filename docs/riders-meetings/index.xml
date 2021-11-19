@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="https://www.brustl.org/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Bus Riders United STL</title>
-    <link>https://www.brustl.org/categories/</link>
-    <description>Recent content in Categories on Bus Riders United STL</description>
+    <title>Bus Rider Meetings on Bus Riders United STL</title>
+    <link>https://www.brustl.org/riders-meetings/</link>
+    <description>Recent content in Bus Rider Meetings on Bus Riders United STL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="https://www.brustl.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 12:33:14 -0500</lastBuildDate>
+    <atom:link href="https://www.brustl.org/riders-meetings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bi-State Board of Commissioners meeting summary</title>
       <link>https://www.brustl.org/rider-info/bi-state/2021-11-19-meeting/</link>

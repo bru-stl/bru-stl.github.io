@@ -1,23 +1,21 @@
 ---
-title: "10% service cuts coming this November"
-date: 2021-11-02T12:33:14-05:00
+title: "10% service cuts coming November 29"
+date: 2021-11-20T12:33:14-05:00
 draft: false
 ---
 
-Starting this month Bi-State will be implementing a [number of service cuts](https://cmt-stl.org/metro-transit-to-reduce-service-hours-due-to-workforce-shortage-expanding-via-pilot-to-fill-in-gaps/) on 27 routes. These changes include:
+Starting November 29, Bi-State will implement [service cuts](https://www.metrostlouis.org/nextstop/metro-transit-service-change-scheduled-for-november-29/). on 27 routes. You can see a graphical breakdown of each buses frequencies below:
 <!--more-->
-> - 14 Local routes will adjust weekday daytime service from 30-minute to either 40- or 60-minute frequency 
-> - 4 Frequent routes will adjust weekday daytime service (3 routes moving from 15-minute to 20- minute frequency, and one route moving from 20- to 30-minute frequency)
-> - 2 routes will have evening service reduced from 30- to 60-minutes
-> - 4 routes will shorten the evening span of service due to low nighttime demand; 3 of those routes, located in North County, have a replacement microtransit service after 8PM
-> - 6 routes temporarily suspended
->   - Includes all 4 Express routes
->   - Includes 2 local routes in South and West County — #46-Tesson Ferry and #65-Outer Forties – which will be fully covered by microtransit service
+### Graphical breakdown of impacted routes:
+{{< rawhtml >}}
+<iframe 
+    width="740"
+    height="560" 
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQmMc0dou_GvJ9MoadCtvSiiXlZYoPsOVsL6oC95On-EgUPYn8dzcd7bmGYE-y8K_-Eaa_7W7Q-aTYa/pubhtml?widget=true&amp;headers=false"></iframe>
+{{< /rawhtml >}}
 
-The changes have not yet been officially announced, but should appear on [Metro's blog](https://www.metrostlouis.org/nextstop/) when they are.
 
-UPDATE: The cuts have now been announced and you can [read on the details here](https://www.metrostlouis.org/nextstop/metro-transit-service-change-scheduled-for-november-29/). The following lines are impacted:
-
+### List of impacted routes
 > **Line suspended**
 > - #46 Tesson Ferry
 > - #65 Outer Forty
@@ -53,4 +51,4 @@ UPDATE: The cuts have now been announced and you can [read on the details here](
 > - #98 Ballas-North Hanley
 > - #174X Halls Ferry Express
 
-**If these cuts will impact you,** please [submit comment to Bi-State](https://www.bistatedev.org/public-meetings/public-comment-form/) before their next meeting on November 19, and encourage them to hire more bus operators and fill the staffing shortage so that riders aren't left waiting.
+**If these cuts will impact you,** please [submit a public comment to Bi-State](https://www.bistatedev.org/public-meetings/public-comment-form/) before their next meeting on December 10, and encourage them to improve bus driver pay and working conditions, so that we can fill our staffing shortage and ensure we aren't left waiting longer on our buses all winter.

@@ -4,6 +4,7 @@ type: home
 params:
     Subtitle: We're tired of waiting 
 ---
+# Our first meeting is Nov 29: [details here](/riders-meetings/2021-11-29)
 
 ## It's time St Louis had the bus system we deserve
 We depend every day on it, and yet we are still *constantly* left waiting. 
@@ -21,3 +22,5 @@ The solutions are straightforward to us: more buses, more bus drivers, more bus 
 > * Transit information only available 7am-6pm Mon-Fri
 
 But working together, we can make ourselves impossible to ignore. [Join us today](join), and be a part of our fight for a better bus system!
+
+![Bus Riders United STL Logo](/images/brustl-logo.png)

@@ -2,7 +2,7 @@
 title: "Submit Comment for BSD's next meeting"
 aliases:
  - /public-comment
-date: 2021-11-27T19:24:31-05:00
+date: 2021-11-27T10:24:31-05:00
 images: ["/images/bi-state-zoom-meeting.png"]
 draft: false
 ---

@@ -2,13 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="https://www.brustl.org/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Bus Riders United STL</title>
-    <link>https://www.brustl.org/</link>
-    <description>Recent content in Home on Bus Riders United STL</description>
+    <title>Orgs on Bus Riders United STL</title>
+    <link>https://www.brustl.org/org/</link>
+    <description>Recent content in Orgs on Bus Riders United STL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 28 Nov 2021 19:17:16 -0600</lastBuildDate>
-    <atom:link href="https://www.brustl.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.brustl.org/org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Submit Comment for Bi-State&#39;s next meeting</title>
       <link>https://www.brustl.org/rider-info/submit-comment/</link>

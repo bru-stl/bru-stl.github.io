@@ -91,3 +91,8 @@ blockquote > p {
 .CommissionersInfo > table > tbody > tr > td {
     padding: 2px 20px;
 }
+
+.TopLink > a {
+    font-size: 1.1em;
+    line-height: 1.8em;
+}

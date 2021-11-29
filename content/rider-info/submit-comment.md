@@ -1,5 +1,5 @@
 ---
-title: "Submit Comment for BSD's next meeting"
+title: "Submit Comment for Bi-State's next meeting"
 aliases:
  - /public-comment
 date: 2021-11-27T10:24:31-05:00
@@ -7,7 +7,7 @@ images: ["/images/bi-state-zoom-meeting.png"]
 draft: false
 ---
 
-The next Bi-State Board of Commissioners meeting is **Friday, December 10 @ 8:30am**. This is a special session, likely in order to rubber-stamp a $52 million turnstile plan, while our bus system gets a 15% service cut. <!--more--> 
+The next Bi-State Board of Commissioners meeting is **Friday, December 10th @ 10am**. This is a special session, likely in order to rubber-stamp a $52 million turnstile plan, while our bus system sees a substantial service cut. <!--more--> 
 
 At their [previous meeting](/rider-info/bi-state/2021-11-19-meeting), Bi-State refused to read *any* of our 36 submitted comments, likely violating their own policies. Our comments were nearly uniform in calling for better bus driver wages and a better bus system, while the commissioners' business was focused almost entirely on turnstiles for the Metrolink.
 

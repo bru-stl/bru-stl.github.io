@@ -4,7 +4,7 @@ type: home
 params:
     Subtitle: We're tired of waiting 
 ---
-# Our first meeting is Nov 29: [details here](/riders-meetings/2021-11-29)
+# Send comment by Dec 10: [details here](/public-comment)
 
 ## It's time St Louis had the bus system we deserve
 We depend every day on it, and yet we are still *constantly* left waiting. 

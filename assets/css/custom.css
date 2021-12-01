@@ -85,10 +85,10 @@ blockquote > p {
     text-decoration: underline;
 }
    
-.CommissionersInfo > table {
+.CenteredTable > table {
     margin: auto;
 }
-.CommissionersInfo > table > tbody > tr > td {
+.CenteredTable > table > tbody > tr > td {
     padding: 2px 20px;
 }
 

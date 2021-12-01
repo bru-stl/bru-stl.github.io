@@ -29,7 +29,7 @@ At their [previous meeting](/rider-info/bi-state/2021-11-19-meeting), Bi-State r
 Bi-State Development (BSD) is the organization that runs Metro. You can find videos of [recent meetings here](https://www.youtube.com/user/MetroStLouisTransit). They are overseen by an appointed Board of Commissioners, which "is responsible for the overall leadership and policy direction for BSD." The Board's current membership is:
 
 {{< rawhtml >}}
-<div class="CommissionersInfo">
+<div class="CenteredTable">
 {{< /rawhtml >}}
 
 |  Missouri  |  Illinois |

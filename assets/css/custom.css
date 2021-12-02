@@ -96,3 +96,26 @@ blockquote > p {
     font-size: 1.1em;
     line-height: 1.8em;
 }
+
+.SocialMediaBox { 
+    background-color: #f79626;
+    max-width: 300px;
+    margin: auto;
+    padding-top: 1px;
+    padding-bottom: 22px;
+}
+
+.SocialMediaBox > h3 {
+    color: white;
+    text-align:center;
+}
+
+.SocialMediaBox > .FlexIcons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.SocialMediaBox > .FlexIcons > a > img {
+    width: 32px;
+    height: 32px;
+}

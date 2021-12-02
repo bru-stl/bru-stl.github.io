@@ -56,4 +56,16 @@ By working together as bus riders, we can demand that our bus system is the one 
     </li>
   </ul>
 </form>
+
+<div class='SocialMediaBox'>
+  <h3>Find BRU STL on social media:</h3>
+  <div class='FlexIcons'>
+    <a href='https://www.facebook.com/Bus-Riders-United-STL-109801931534629'>
+      <img src='/images/facebook.png'/>
+    </a>
+    <a href='https://twitter.com/BRU_STL'>
+      <img src='/images/twitter.png'/>
+    </a>
+  </div>
+</div>
 {{< /rawhtml >}}

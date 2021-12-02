@@ -22,5 +22,3 @@ The solutions are straightforward to us: more buses, more bus drivers, more bus 
 > * Transit information only available 7am-6pm Mon-Fri
 
 But working together, we can make ourselves impossible to ignore. [Join us today](join), and be a part of our fight for a better bus system!
-
-![Bus Riders United STL Logo](/images/brustl-logo.png)

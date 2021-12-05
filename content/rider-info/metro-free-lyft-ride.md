@@ -9,6 +9,6 @@ If you have a wait of 30 minutes or more due to your bus not showing up for its 
 
 Give Transit Information team a call if your bus does not arrive at [314.231.2345](tel:3142312345), although their hours are only 7am - 6pm Monday thru Friday.
 
-Outside of those hours, Transit Service Managers and Public Safety team are able to assist: contact Public Safety 24/7 by calling [314.289.6873](tel:3142896873).
+Outside of those hours, Transit Service Managers and Public Safety team are able to assist: contact Public Safety 24/7 by calling [314.289.6873](tel:3142896873) or texting 314.300.0188. Riders have reported that Public Safety are sometimes reluctant to send a Lyft, despite the stated policy. If you are insistent, though, they should order you one.
 
 A more effective and reliable use of resources might be to pay for more bus drivers, rather than some undetermined number of Lyft rides, but we still think it's important to share this information with fellow riders so they are aware of their options and aren't left standing in the cold from a bus that never showed up.

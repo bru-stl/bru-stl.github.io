@@ -7,16 +7,16 @@ images: ['/images/cori-bush-on-metrobus.jpg']
 
 ![Rep. Cori Bush on a Metrobus](/images/cori-bush-on-metrobus.jpg)
 
-Today, St Louis's representative Cori Bush introduced the Bus Rapid Transit Act in the halls of congress. If passed, the act would authorize $12 in new funding annually for improved bus rapid transit (or BRT) across the United States. 
+Today, St Louis's representative Cori Bush introduced the [Bus Rapid Transit Act](/link-to-come) in the halls of congress. If passed, the act would authorize $12 billion in new funding annually for improved bus rapid transit (or BRT) across the United States. 
 
 We know that [the best bus line is a frequent bus line](/rider-info/frequencies), but one challenge that transit agencies currently face is that a high frequency means needing to hire more drivers. Labor is generally the most expensive part of transit, and current federal regulations require that local and state funding cover labor and most other operating costs. The Bus Rapid Transit Act would fundamentally change this equation for the better, allowing funds to be used for **both construction and operation of covered BRT systems**, with the federal government covering up to **85%** of these costs. 
 
 The act also specifies a number of requirements for covered BRT systems to ensure that they are effective, including:
-> - Requires center-running, dedicated right-of-ways for buses
+> - Center-running, dedicated right-of-ways for buses
 > - High quality, safe, and accessible stops and stations
 > - All buses must be electric and powered by renewable energy
-> - A prohibition on an increase in fares due to improvements
-> - Numerous other design requirements
+> - A prohibition on an increase in fares due to BRT improvements
+> - Numerous other best-practice design specifications
 
 For an example of a center-running BRT, see the [Red Line in Indianapolis](https://thefoxandthecity.com/articles/riding-the-red-line-indianapolis-americas-new-brt-gold-standard):
 
@@ -29,4 +29,4 @@ St Louis (located in a [state which notoriously refuses to fund transit](https:/
 
 On top of that, since federal funding would replace some portion of local funding currently used for operations, Metro would be able to shift those funds to other lines, allowing for better frequencies and more reliable service even on non-BRT lines.
 
-The act is still in early stages, but we are excited aboutt the opportunities that it holds. We consider ourselves lucky to have this bill's sponsor as our representative, and we ask you to urge your congressperson to support the Bus Rapid Transit Act.
+The act is still in early stages, but we are excited about the opportunities that it holds. We consider ourselves lucky to have this bill's sponsor as our representative, and we ask you to urge your congressperson to support the Bus Rapid Transit Act.

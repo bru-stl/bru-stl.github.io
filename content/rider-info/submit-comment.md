@@ -3,7 +3,7 @@ title: "Submit Comment for Bi-State's next meeting"
 aliases:
  - /public-comment
 date: 2021-11-27T10:24:31-05:00
-images: ["/images/bi-state-zoom-meeting.png"]
+images: ["/images/bi-state-zoom-meeting-send-by-friday.png"]
 draft: false
 ---
 
@@ -23,7 +23,7 @@ At their [previous meeting](/rider-info/bi-state/2021-11-19-meeting), Bi-State r
 
 [Please fill out this form](https://www.bistatedev.org/public-meetings/public-comment-form/) to send Bi-State your comments. They will read your comments at the start of their meeting on Friday, December 10.
 
-![Screenshot of Bi-State Zoom meeting](/images/bi-state-zoom-meeting.png)
+[![Screenshot of Bi-State Zoom meeting](/images/bi-state-zoom-meeting-send-by-friday.png)](https://www.bistatedev.org/public-meetings/public-comment-form/)
 
 ### What is Bi-State Development?
 Bi-State Development (BSD) is the organization that runs Metro. You can find videos of [recent meetings here](https://www.youtube.com/user/MetroStLouisTransit). They are overseen by an appointed Board of Commissioners, which "is responsible for the overall leadership and policy direction for BSD." The Board's current membership is:

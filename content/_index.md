@@ -4,7 +4,7 @@ type: home
 params:
     Subtitle: We're tired of waiting 
 ---
-# Send comment by Dec 10: [details here](/public-comment)
+# Join us Feb 4 for [Transit Equity Day](/rider-info/transit-equity-day-2022)!
 
 ## It's time St Louis had the bus system we deserve
 We depend every day on it, and yet we are still *constantly* left waiting. 

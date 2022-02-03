@@ -9,7 +9,7 @@ sectionPagesMenu = "main"
 [params]
 	description = "Bus riders fighting together for a better St Louis"
 	color = "#f79626"
-	footer = "🚌 <em>The bus can better when we ride together!</em> ✊ &copy; 2021 Bus Riders United STL"
+	footer = "🚌 <em>The bus can be better when we ride together!</em> ✊ &copy; 2021 Bus Riders United STL"
     home_content_image = "/images/civic-center.jpg"
 	css = [ "css/custom.css" ]
 	summaries = true
@@ -21,7 +21,7 @@ sectionPagesMenu = "main"
 	[[menu.nav]]
 		name = "Rider info"
 		url = "/rider-info"
-		weight = 2
+		weight = 1
 	[[menu.nav]]
 		name = "Join us!"
 		url = "/join"

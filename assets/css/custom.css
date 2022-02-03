@@ -15,6 +15,17 @@ blockquote > p {
 
 }
 
+#home-content > h1 {
+    background-color: #f79626;
+    color: white;
+    padding: 2px;
+    text-align: center;
+}
+
+#home-content > h1 > a {
+    color: white;
+}
+
 #home-image-box {
     padding: 25px;
     min-height: 200px;
@@ -74,3 +85,37 @@ blockquote > p {
     text-decoration: underline;
 }
    
+.CenteredTable > table {
+    margin: auto;
+}
+.CenteredTable > table > tbody > tr > td {
+    padding: 2px 20px;
+}
+
+.TopLink > a {
+    font-size: 1.1em;
+    line-height: 1.8em;
+}
+
+.SocialMediaBox { 
+    background-color: #f79626;
+    max-width: 300px;
+    margin: auto;
+    padding-top: 1px;
+    padding-bottom: 22px;
+}
+
+.SocialMediaBox > h3 {
+    color: white;
+    text-align:center;
+}
+
+.SocialMediaBox > .FlexIcons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.SocialMediaBox > .FlexIcons > a > img {
+    width: 32px;
+    height: 32px;
+}

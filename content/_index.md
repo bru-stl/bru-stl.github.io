@@ -4,13 +4,14 @@ type: home
 params:
     Subtitle: We're tired of waiting 
 ---
+# Join us Feb 4 for [Transit Equity Day](/rider-info/transit-equity-day-2022)!
 
 ## It's time St Louis had the bus system we deserve
 We depend every day on it, and yet we are still *constantly* left waiting. 
 
 The solutions are straightforward to us: more buses, more bus drivers, more bus shelters. Unfortunately, people running local governments and transit agencies rarely use transit themselves, meaning our real problems are misunderstood and ignored. For instance:
 
-> * A further 10% service cut coming [later this month](rider-info/november-2021-service-cuts)
+> * A further 10% service cut [started Nov 29](rider-info/november-2021-service-cuts)
 > * Not enough good bus stops with shelters
 > * Sidewalks to/from bus stops in terrible condition
 > * Not enough bus drivers, meaning buses often don't show up

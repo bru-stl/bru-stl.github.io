@@ -5,7 +5,7 @@
         <a class="Banner-link u-clickable" href="{{ relURL nil }}">{{ site.Title }}</a>
       </li>
       {{ range site.Menus.nav }}
-        <li class="Banner-item">
+        <li class="Banner-item TopLink">
           <a class="Banner-link u-clickable" href="{{ relURL .URL }}">{{ .Name }}</a>
         </li>
       {{ end }}

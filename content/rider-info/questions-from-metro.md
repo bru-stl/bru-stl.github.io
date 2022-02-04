@@ -42,7 +42,7 @@ If you have a question you think should be up here, please reach out to us.
 ### Safety
 
 > **When will transit waiting centers reopen?** \
-> Indoor waiting areas at transit centers have been closed since the start of the pandemic, with no clear policy for when they will reopen. Metro claims that centers are unsafe to open due to extra concern due to delta variant. (Such safety concern seems not to warrant a return to backdoor-boarding on buses, though.)
+> Indoor waiting areas at transit centers were closed at the start of the pandemic. In December they were reopened, but are only in operation 6am-6pm.
 
 > **Why were public safety logs made inaccessible to the public?** \
 > Metro's website previously shared a public log of Public Safety's calls, [as found on their site in April 2019](https://web.archive.org/web/20190408195219/https://www.metrostlouis.org/safety-and-security/). Removing public access to this data obscures any oversight from the public, especially when the data before removal showed a stark uptick in fare violation calls.

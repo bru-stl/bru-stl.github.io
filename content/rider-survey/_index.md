@@ -5,6 +5,7 @@ draft: false
  ['/images/civic-center-closed-center.jpg']
 ---
 
+This survey is in conjunction with our efforts for [Transit Equity Day 2022](/rider-info/transit-equity-day-2022). If you took this survey in person at a transit center, there's no need to fill it out here (but you could always send it along to a friend!)
 {{< rawhtml >}}
 <iframe 
     class="airtable-embed airtable-dynamic-height" 

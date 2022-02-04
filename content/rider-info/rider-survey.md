@@ -1,5 +1,5 @@
 ---
-title: "Take our quick rider survey!"
+title: "Take our 3-question rider survey!"
 date: 2022-02-04T01:33:14-05:00
 draft: false
 aliases:

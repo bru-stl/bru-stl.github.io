@@ -35,4 +35,4 @@ Starting March 21, Bi-State will implement [service changes](https://www.metrost
 
 Note that these service cuts are on the tail of [major frequency reductions last November](../november-2021-service-cuts). We continue to call on Bi-State to further improve transit operator wages and working conditions so that we can end our operator shortage and reverse these service cuts as soon as possible.
 
-Learn more about becoming a transit operator at https://www.WorkAtMetroSTL.com
+Learn more about becoming a transit operator at http://www.WorkAtMetroSTL.com

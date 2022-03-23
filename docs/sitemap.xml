@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.brustl.org/rider-info/bi-state/2022-03-10-meeting/</loc>
-    <lastmod>2022-03-10T12:33:14-05:00</lastmod>
-  </url><url>
-    <loc>https://www.brustl.org/rider-info/bi-state/</loc>
-    <lastmod>2022-03-10T12:33:14-05:00</lastmod>
+    <loc>https://www.brustl.org/rider-info/service-changes/march-2022-service-cuts/</loc>
+    <lastmod>2022-03-20T12:33:14-05:00</lastmod>
   </url><url>
     <loc>https://www.brustl.org/</loc>
-    <lastmod>2022-03-10T12:33:14-05:00</lastmod>
+    <lastmod>2022-03-20T12:33:14-05:00</lastmod>
   </url><url>
     <loc>https://www.brustl.org/rider-info/</loc>
+    <lastmod>2022-03-20T12:33:14-05:00</lastmod>
+  </url><url>
+    <loc>https://www.brustl.org/rider-info/service-changes/</loc>
+    <lastmod>2022-03-20T12:33:14-05:00</lastmod>
+  </url><url>
+    <loc>https://www.brustl.org/rider-info/bsd-meetings/2022-03-10-meeting/</loc>
+    <lastmod>2022-03-10T12:33:14-05:00</lastmod>
+  </url><url>
+    <loc>https://www.brustl.org/rider-info/bsd-meetings/</loc>
     <lastmod>2022-03-10T12:33:14-05:00</lastmod>
   </url><url>
     <loc>https://www.brustl.org/rider-info/rider-survey/</loc>
@@ -22,6 +28,9 @@
   </url><url>
     <loc>https://www.brustl.org/rider-info/transit-equity-day-2022/</loc>
     <lastmod>2022-01-25T12:33:14-05:00</lastmod>
+  </url><url>
+    <loc>https://www.brustl.org/rider-info/bsd-meetings/2022-meeting-list/</loc>
+    <lastmod>2022-01-01T12:33:14-05:00</lastmod>
   </url><url>
     <loc>https://www.brustl.org/rider-info/submit-comment/modot-unfunded-needs-dec-2021/</loc>
     <lastmod>2021-12-01T09:33:14-05:00</lastmod>
@@ -38,10 +47,10 @@
     <loc>https://www.brustl.org/rider-info/submit-comment/</loc>
     <lastmod>2021-11-27T10:24:31-05:00</lastmod>
   </url><url>
-    <loc>https://www.brustl.org/rider-info/november-2021-service-cuts/</loc>
+    <loc>https://www.brustl.org/rider-info/service-changes/november-2021-service-cuts/</loc>
     <lastmod>2021-11-20T12:33:14-05:00</lastmod>
   </url><url>
-    <loc>https://www.brustl.org/rider-info/bi-state/2021-11-19-meeting/</loc>
+    <loc>https://www.brustl.org/rider-info/bsd-meetings/2021-11-19-meeting/</loc>
     <lastmod>2021-11-19T12:33:14-05:00</lastmod>
   </url><url>
     <loc>https://www.brustl.org/riders-meetings/</loc>
@@ -64,6 +73,11 @@
   </url><url>
     <loc>https://www.brustl.org/rider-info/metro-free-lyft-ride/</loc>
     <lastmod>2021-10-22T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.brustl.org/rider-info/bsd-meetings/2021-meeting-list/</loc>
+    <lastmod>2021-01-01T12:33:14-05:00</lastmod>
+  </url><url>
+    <loc>https://www.brustl.org/rider-info/brustl-meetings/</loc>
   </url><url>
     <loc>https://www.brustl.org/categories/</loc>
   </url><url>

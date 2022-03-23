@@ -4,6 +4,7 @@ date: 2021-01-01T12:33:14-05:00
 draft: false
 ---
 
+### Past meetings
 * Thursday, January 14, 2021 @ 8:30 AM
     * Board of Commissioners Special Meeting (virtual meeting)
     * Safety & Security Committee Meeting (virtual meeting)
@@ -53,7 +54,7 @@ draft: false
     * Audit, Finance, & Administration Committee Meeting (virtual meeting)
 * Monday, November 8, 2021 @ 10:00 AM
     * Executive Committee Meeting (virtual meeting)
-* Friday, November 19, 2021 @ 8:30 AM
+* Friday, November 19, 2021 @ 8:30 AM / [BRUSTL's notes on this meeting](../2021-11-19-meeting)
     * Board of Commissioners Meeting (virtual meeting)
 * Friday, December 10, 2021 @ 10:00 AM
     * Special Meeting – Board of Commissioners (virtual meeting)

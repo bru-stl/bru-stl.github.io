@@ -5,9 +5,9 @@ title: Rider info
 
 ## BRU STL information libraries
 These links contain our notes on meetings and service changes
-* [Bus Riders United STL Meeting Summaries](/rider-info/brustl-meetings) - Notes from BRUSTL meetings
-* [Bi-State Development Meeting Summaries](/rider-info/bsd-meetings) - Notes from BSD meetings
-* [Service Change Summaries](/rider-info/service-changes) - Information on service changes
+* [Bus Riders United STL meeting summaries](/rider-info/brustl-meetings) - Notes from BRUSTL meetings
+* [Bi-State Development meeting summaries](/rider-info/bsd-meetings) - Notes from BSD meetings
+* [Service change summaries](/rider-info/service-changes) - Information on service changes
 
 ---
 
@@ -21,5 +21,5 @@ The following links will help you find official information from our Metro Trans
 
 ---
 
-## All BRU STL Rider updates
+## All BRU STL rider updates
 You can find all of our updates below:

@@ -1,7 +1,8 @@
 ---
-title: "Further 5% service cuts starting March 21, 2022"
+title: "Further service cuts starting March 21, 2022"
 date: 2022-03-20T12:33:14-05:00
 draft: false
+images: ["/images/mar2022-service-cuts.png"]
 ---
 
 Starting March 21, Bi-State will implement [service changes](https://www.metrostlouis.org/nextstop/metro-transit-service-change-on-march-21/) on 18 routes, with 12 of these lines losing service frequency. You can see a graphical breakdown of each buses frequencies below:
@@ -33,3 +34,5 @@ Starting March 21, Bi-State will implement [service changes](https://www.metrost
 > - #98 Ballas-N. Hanley - Weekday days
 
 Note that these service cuts are on the tail of [major frequency reductions last November](../november-2021-service-cuts). We continue to call on Bi-State to further improve transit operator wages and working conditions so that we can end our operator shortage and reverse these service cuts as soon as possible.
+
+Learn more about becoming a transit operator at https://www.WorkAtMetroSTL.com

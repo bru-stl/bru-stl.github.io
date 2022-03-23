@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+  <article>
+    {{ partial "heading.html" . }}
+    <h3>Meeting info</h3>
+    <p>
+      <ul>
+        <li>{{ .Params.MeetingDateTime }}</li>
+        <li>
+          {{ if isset .Params "MeetingMinutesLink" }}
+            <a href=\"{{ .Params.MeetingMinutesLink }}\">Meeting minutes [PDF]</a>
+          {{ else }}
+            Meeting minutes [still to come]
+          {{ end }}
+        </li>
+        <li>
+          {{ if isset .Params "MeetingRecordingLink" }}
+            <a href=\"{{. .ParamsMeetingRecordingLink }}\">Meeting recording [Youtube]</a>
+          {{ else }}
+            Meeting recording [still to come]
+          {{ end }}
+        </li>
+      </ul>
+    </p>
+    {{ .Content }}
+    {{ partial "tags.html" . }}
+    {{ partial "comments.html" . }}
+  </article>
+
+{{ end }}

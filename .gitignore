@@ -1,2 +1,4 @@
 resources/_gen/
 .hugo_build.lock
+
+local_dev

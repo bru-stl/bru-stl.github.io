@@ -2,13 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="https://www.brustl.org/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Bus Riders United STL</title>
-    <link>https://www.brustl.org/</link>
-    <description>Recent content in Home on Bus Riders United STL</description>
+    <title>Bi-State meeting summaries on Bus Riders United STL</title>
+    <link>https://www.brustl.org/rider-info/bi-state/</link>
+    <description>Recent content in Bi-State meeting summaries on Bus Riders United STL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 10 Mar 2022 12:33:14 -0500</lastBuildDate>
-    <atom:link href="https://www.brustl.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.brustl.org/rider-info/bi-state/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>February 4 is Transit Equity Day!</title>
       <link>https://www.brustl.org/rider-info/transit-equity-day-2022/</link>

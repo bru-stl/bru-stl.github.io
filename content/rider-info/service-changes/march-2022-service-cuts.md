@@ -9,6 +9,7 @@ Starting March 21, Bi-State will implement [service changes](https://www.metrost
 
 <!--more-->
 ### Graphical breakdown of impacted routes:
+*Use the "Before" and "After" options below the diagram to compare schedules*
 {{< rawhtml >}}
 <iframe 
     width="620"
@@ -25,7 +26,7 @@ Starting March 21, Bi-State will implement [service changes](https://www.metrost
 > - #34 Earth City - Daytime
 > - #35 Rock Road - Daytime
 > - #61 Chambers - Weekdays
-> - #70 Grand - Weekday eveningss
+> - #70 Grand - Weekday evenings
 > - #73 Carondelet - Weekdays and weekends
 > - #74 Florissant - Weekdays and weekends
 > - #90 Hampton - Weekdays

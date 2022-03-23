@@ -7,6 +7,7 @@ draft: false
 Starting November 29, Bi-State will implement [service cuts](https://www.metrostlouis.org/nextstop/metro-transit-service-change-scheduled-for-november-29/). on 27 routes. You can see a graphical breakdown of each buses frequencies below:
 <!--more-->
 ### Graphical breakdown of impacted routes:
+*Use the "Before" and "After" options below the diagram to compare schedules*
 {{< rawhtml >}}
 <iframe 
     width="740"

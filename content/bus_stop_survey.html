@@ -43,7 +43,7 @@
         var radius = e.accuracy;
 
         // Add nearby stops to map
-        let stops_url = 'http://www.brustl.org/data/stl-gtfs/stops.txt'
+        let stops_url = '/data/stl-gtfs/stops.txt'
         fetch(stops_url)
             .then(response => response.text())
             .then(data => {

@@ -52,7 +52,7 @@
                     let data_parts = rows[i].split(',');
                     let thisStopLatLng = L.latLng(data_parts[0], data_parts[3]);
                     // lat, wheelchair_boarding, zone_id, lon, stop_id, stop_desc, stop_name, location_type, stop_code
-                    if (thisStopLatLng && thisStopLatLng.distanceTo(e.latlng) < radius) {
+                    if (thisStopLatLng && thisStopLatLng.distanceTo(e.latlng) < radius && thisStopLatLng.distanceTo(e.latlng) < 500) {
                         let thisMarker = L.marker(thisStopLatLng, {title: data_parts[6]}).addTo(map);
                         thisMarker.on('click', () => { window.open(survey_url.concat(prefill_param, data_parts[4]), '_blank') })
                     }

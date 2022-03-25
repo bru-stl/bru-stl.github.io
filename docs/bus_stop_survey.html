@@ -25,7 +25,8 @@
 
 <script>
     const survey_url = 'https://airtable.com/shr3X3r4hnezHykAt'
-    const prefill_param = '?prefill_StopId='
+    const prefill_stopid = '?prefill_StopId='
+    const prefill_stopname = '&prefill_Stop+Name='
 
     var map = L.map('map').fitWorld();
     L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
@@ -54,7 +55,7 @@
                     // lat, wheelchair_boarding, zone_id, lon, stop_id, stop_desc, stop_name, location_type, stop_code
                     if (thisStopLatLng && thisStopLatLng.distanceTo(e.latlng) < 800) {
                         let thisMarker = L.marker(thisStopLatLng, {title: data_parts[6]}).addTo(map);
-                        thisMarker.on('click', () => { window.open(survey_url.concat(prefill_param, data_parts[4]), '_blank') })
+                        thisMarker.on('click', () => { window.open(survey_url.concat(prefill_stopid, data_parts[4], prefill_stopname, data_parts[6]), '_blank') })
                     }
                 }
             });

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  
+    <meta name="description" content="body {padding: 0;margin: 0;}html, body, #map {height: 100%;width: 100vw;}const survey_url = &#39;https://airtable.com/shr3X3r4hnezHykAt&#39;const prefill_stopid = &#39;?prefill_StopId=&#39;const prefill_stopname = &#39;&prefill_Stop&#43;Name=&#39;var map = L.map(&#39;map&#39;).fitWorld();L.tileLayer(&#39;https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}&#39;, {attribution: &#39;Map data &copy; OpenStreetMap contributors, Imagery © Mapbox&#39;,maxZoom: 17,id: &#39;mapbox/streets-v11&#39;,tileSize: 512,zoomOffset: -1,accessToken: &#39;pk.eyJ1IjoibWVhZ2xlcyIsImEiOiJjbDE2bHNxeGcxM3U0M2V2MGFrdmVpZjdlIn0._KTpXGwEcFTSE50BjYKcJg&#39;}).addTo(map);// Geolocatemap.locate({setView: true, maxZoom: 17})function onLocationFound(e) {var radius = e.">
+  
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://www.brustl.org/images/civic-center.jpg"/>
+
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="body {padding: 0;margin: 0;}html, body, #map {height: 100%;width: 100vw;}const survey_url = &#39;https://airtable.com/shr3X3r4hnezHykAt&#39;const prefill_stopid = &#39;?prefill_StopId=&#39;const prefill_stopname = &#39;&prefill_Stop&#43;Name=&#39;var map = L.map(&#39;map&#39;).fitWorld();L.tileLayer(&#39;https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}&#39;, {attribution: &#39;Map data &copy; OpenStreetMap contributors, Imagery © Mapbox&#39;,maxZoom: 17,id: &#39;mapbox/streets-v11&#39;,tileSize: 512,zoomOffset: -1,accessToken: &#39;pk.eyJ1IjoibWVhZ2xlcyIsImEiOiJjbDE2bHNxeGcxM3U0M2V2MGFrdmVpZjdlIn0._KTpXGwEcFTSE50BjYKcJg&#39;}).addTo(map);// Geolocatemap.locate({setView: true, maxZoom: 17})function onLocationFound(e) {var radius = e."/>
+
+
+
+<meta name="generator" content="Hugo 0.88.1" />
+  <title>Bus Riders United STL</title>
+  <link rel="canonical" href="/bus_stop_survey/">
+
+
+  
+
+
+
+
+  
+  
+    
+    
+  
+  
+
+
+
+
+
+  
+    
+  
+  
+  <link rel="stylesheet" href="/css/base.min.bafe48519153e204b83e014e39fa79d597d25f9c99115a58ba972c146acdfd40.css" integrity="sha256-uv5IUZFT4gS4PgFOOfp51ZfSX5yZEVpYupcsFGrN/UA=" crossorigin="anonymous">
+
+
+
+</head>
+
+<body>
+  <nav class="u-background">
+  <div class="u-wrapper">
+    <ul class="Banner">
+      <li class="Banner-item Banner-item--title">
+        <a class="Banner-link u-clickable" href="/">Bus Riders United STL</a>
+      </li>
+      
+        <li class="Banner-item TopLink">
+          <a class="Banner-link u-clickable" href="/rider-info">Rider info</a>
+        </li>
+      
+        <li class="Banner-item TopLink">
+          <a class="Banner-link u-clickable" href="/join">Join us!</a>
+        </li>
+      
+    </ul>
+  </div>
+</nav>
+  <main>
+    <div class="u-wrapper">
+      
+      <div class="u-padding">
+        
+
+  <article>
+    <header class="Heading">
+  <h2 class="Heading-title">
+    <a class="Heading-link u-clickable" href="/bus_stop_survey/" rel="bookmark"></a>
+  </h2>
+  
+</header>
+    
+
+
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+</head>
+
+<style>
+    body {
+        padding: 0;
+        margin: 0;
+    }
+    html, body, #map {
+        height: 100%;
+        width: 100vw;
+    }
+</style>
+
+<body>
+    <div id="map"></div>
+    <div style="pointer-events:none; position: absolute; top: 100px; left: 100px;"></div>
+</body>
+
+<script>
+    const survey_url = 'https://airtable.com/shr3X3r4hnezHykAt'
+    const prefill_stopid = '?prefill_StopId='
+    const prefill_stopname = '&prefill_Stop+Name='
+
+    var map = L.map('map').fitWorld();
+    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 17,
+        id: 'mapbox/streets-v11',
+        tileSize: 512,
+        zoomOffset: -1,
+        accessToken: 'pk.eyJ1IjoibWVhZ2xlcyIsImEiOiJjbDE2bHNxeGcxM3U0M2V2MGFrdmVpZjdlIn0._KTpXGwEcFTSE50BjYKcJg'
+    }).addTo(map);
+
+    // Geolocate
+    map.locate({setView: true, maxZoom: 17})
+    function onLocationFound(e) {
+        var radius = e.accuracy;
+
+        // Add nearby stops to map
+        let stops_url = '/data/stl-gtfs/modified-stops.txt'
+        fetch(stops_url)
+            .then(response => response.text())
+            .then(data => {
+                let rows = data.split('\n');
+                for (let i = 1; i < rows.length; i++) {
+                    let data_parts = rows[i].split(',');
+                    let thisStopLatLng = L.latLng(data_parts[0], data_parts[3]);
+                    // lat, wheelchair_boarding, zone_id, lon, stop_id, stop_desc, stop_name, location_type, stop_code
+                    if (thisStopLatLng && thisStopLatLng.distanceTo(e.latlng) < 800) {
+                        let thisMarker = L.marker(thisStopLatLng, {title: data_parts[6]}).addTo(map);
+                        thisMarker.on('click', () => { window.open(survey_url.concat(prefill_stopid, data_parts[4], prefill_stopname, data_parts[6]), '_blank') })
+                    }
+                }
+            });
+
+        // L.marker(e.latlng).addTo(map)
+            // .bindPopup("You are within " + radius + " meters from this point").openPopup();
+
+        L.circle(e.latlng, radius).addTo(map);
+    }
+    map.on('locationfound', onLocationFound);   
+</script>
+
+
+
+    
+
+
+  
+
+  
+
+
+
+
+
+    
+  
+
+  </article>
+
+
+      </div>
+    </div>
+  </main>
+  
+  <footer class="Footer">
+    <div class="u-wrapper">
+      <div class="u-padding">
+        🚌 <em>The bus can be better when we ride together!</em> ✊ &copy; 2021 Bus Riders United STL
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>
